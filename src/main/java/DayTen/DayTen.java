@@ -12,8 +12,8 @@ public class DayTen {
 
 
     public static void main(String[] args) {
-        //int[][] matrix = readFile("DayElevenTestInput.csv");
-        int[][] matrix = readFile("DayEleven.csv");
+        //int[][] matrix = readFile("DayTenTestInput.csv");
+        int[][] matrix = readFile("DayTen.csv");
         //partOne(matrix);
         partOneOptionTwo(matrix);
     }
